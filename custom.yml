@@ -18,6 +18,12 @@ packages:
   - wireguard
   - luci-app-eqos
   - wireguard-tools
+  - v2ray-core
+  - trojan
+  - shadowsocks-rust
+  - shadowsocks-libev
+  - xray-core
+  - xray-plugin
 
 
 
